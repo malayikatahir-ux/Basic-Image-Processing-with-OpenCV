@@ -7,7 +7,7 @@ This repository contains my first **Computer Vision Lab** project, focused on un
 The lab explores how digital images can be loaded, inspected, transformed, converted between different color spaces, and saved using Python-based computer vision techniques.
 
 ### Operations Covered
-
+ 
 * Loading and displaying images
 * Inspecting image shape and dimensions
 * Resizing images
