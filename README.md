@@ -24,6 +24,7 @@ The lab explores how digital images can be loaded, inspected, transformed, conve
 * **Python**
 * **OpenCV (cv2)**
 * **NumPy**
+* **Matplotlib.pyplot**
 
 ## Learning Outcomes
 
